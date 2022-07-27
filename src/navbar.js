@@ -46,7 +46,8 @@ class Navbar extends React.Component {
             </div>
           </nav>
             <Routes>
-                  <Route path="/unicrypt" element ={<UniCrypt1/>}/>
+                  <Route path="/" element ={<UniCrypt1/>}/>
+                  <Route path="/unicrypt/" element ={<UniCrypt1/>}/>
                   <Route path="/unicryptToken" element ={<UnicryptToken/>}/>
                   <Route path="/unicrypt" element ={<UniCrypt1/>}/>
                   <Route path="/unicryptTokenForm" element ={<UnicryptTokenForm/>}/>
