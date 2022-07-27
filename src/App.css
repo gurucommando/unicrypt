@@ -1,0 +1,420 @@
+#root{
+background-color:black; 
+color: whitesmoke;
+justify-content: center; 
+scroll-behavior: smooth;
+  
+}
+.nav-logo img{
+  width: 15%;
+  height: 15%;
+}
+nav div{
+  background-color:transparent;
+  margin-top: 20px;
+  
+}
+
+nav li{
+  font-size: 20px;
+  /* margin-left: 20px; */
+  border: 1px solid rgb(88, 88, 50);
+  /* float:right; */
+  border-radius: 5px;
+  font-weight: 700;
+  font-family: 'Gilroy',sans-serif;
+ 
+  /* padding: 10PX; */
+}
+
+nav li :hover{
+  background-color: #73EA68;
+  border: none;
+
+  border-radius: 5px;
+  box-shadow: 0 0 11px rgba(191, 36, 36, 0.2);
+  /* box-shadow: 10px 10px 10px 10px rgba(31, 252, 38, 0.4); */
+  /* border-radius: 10px; */
+}
+.active{
+  background-color: #73EA68;
+}
+.uni{
+  position:relative;
+  /* width: 70%; */
+  /* background-color:#05080C; */
+  /* width: 100%;  */
+  /* height: 800px; */
+  /* width: 100%; */
+  color: aliceblue;
+  justify-content: center;
+  align-items: center;
+  /* margin:0 0 0 15%; */
+
+
+}
+svg{
+  stroke: #73EA68;
+  opacity: .2;
+ 
+}
+.uni svg{
+  width: 12%;
+  height: 12%;
+}
+.uni h1{
+  margin-top: 3vw;
+  /* position:absolute; */
+  font-size: calc(25px + 15 * (100vw - 320px) / 1080);
+  font-weight: 200;
+  /* margin: 100px 110px; */
+  /* text-align: center; */
+  /* justify-content: center; */
+  /* justify-items: center; */
+  /* opacity: 1; */
+
+}
+.uni span{
+ position: relative;
+  /* padding-top:20px; */
+  /* margin-left:450px; */
+  color:#73EA68;
+  letter-spacing: 10px;
+
+  text-align: center;
+  /* left: 39%; */
+}
+
+.start_P{
+    /* margin:240px 0 0 0px; */
+    margin-top:5vw;
+    color: #b8eded65;
+    font-size: 50px;
+    /* text-align: center; */
+    /* justify-content: center; */
+}
+.uni button{
+  width: 180px;
+  height: 50px;
+  background-color: #73EA68;
+  margin: 3vw;
+  border-radius: 5px;
+}
+.uni p {
+  /* margin: 50px 0 0 50px; */
+  font-size:x-large;
+  color: #b8eded65;
+  text-align: center;
+  font-size: medium;
+}
+.uni h6{
+  /* margin: 12px 0 0 460px; */
+  color:#73EA68;
+}
+.blockchain_3d{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    /* left: 25%; */
+    transform: translate(-10%,-50%);
+    /* letter-spacing: 0; */
+    text-transform: none;
+    /* font-size: calc(120px + 70 * (6vw - 320px) / 1080); */
+    font-size: 10vw;
+    white-space: nowrap;
+    text-shadow: 0 0 0;
+    font-weight: bold;
+    opacity: .1;
+    bottom: 0;
+    -webkit-text-stroke: 1px #74ec67;
+    color: rgba(0,0,0,0);
+}
+ .block-up{
+  
+  position:relative;
+  text-align: center;
+ 
+  box-sizing: border-box;
+  justify-content: center;
+  margin-top: -100px;
+  word-spacing: 10px;
+}
+
+.block-up span{
+  word-spacing: 10px;
+  color:#73EA68;
+
+ 
+}
+.main-logo{
+  /* background-color:#05080C; */
+  /* width: 100%; */
+  height: 430px;
+  margin-top: 70px;
+
+}
+.logo svg{
+  width: 70%;
+  height: 90%;
+}
+.logo p{
+  color:#73EA68;
+  
+  position: relative;
+  text-align: center;
+  
+  word-spacing: 1px;
+
+}
+
+.logo-text p{
+  /* text-align: center; */
+  color: #b8eded65;
+  margin-top:3vw;
+}
+.logo-text h6{
+  text-align: center;
+  color: wheat;
+}
+.main-12 svg{
+  width: 45%;
+  height: 45%;
+  opacity: .5;
+
+}
+.main-12 img{
+  width: 45%;
+  height: 45%;
+}
+.partOf-2{
+/* padding: 0 20% ; */
+margin: auto;
+justify-content: center;
+/* text-align: center; */
+align-items: center;
+margin-top: 10vw;
+}
+.log p:first-of-type{
+  color:#73EA68;
+  letter-spacing: 10px;
+ 
+}
+.main-12{
+  margin-top: -50px;
+}
+
+.main-row{
+  padding-top: 60px;
+}
+.fan{
+  stroke: aliceblue;
+}
+.blockchain-2020{
+  margin-top: 8vw;
+}
+
+.block-up-2020{
+  color:#73EA68;
+  position:relative;
+  text-align: center;
+  letter-spacing: 15px;
+  box-sizing: border-box;
+  justify-content: center;
+  margin-top: -150px;
+  word-spacing: 25px;
+  
+
+}
+.row-2020 p{
+  color: red;
+  color:#73EA68;
+  letter-spacing: 15px;
+}
+.row-2020 strong{
+  font-size: 4vw;
+  color: #00E366;
+
+}
+.blockchain-glass .blockchain_3d{
+  /* position: relative; */
+
+font-size: 9vw;
+}
+.uni-pic{
+  margin-top: -60px;
+}
+#uni-round{
+  /* position:absolute; */
+  position: relative;
+  width: 40%;
+  height: 40%;
+  /* margin-top: -50px; */
+  /* left: 20%; */
+  
+}
+.red-glass{
+  position: relative;
+  width: 40%;
+  /* height: 20%; */
+  margin-top: -130px ;
+}
+.uni-pic h2 {
+margin-top: 4vw;
+}
+.uni-pic button{
+  width: 180px;
+  height: 50px;
+  background-color: #73EA68;
+  margin-top: 3vw;
+  border-radius: 5px;
+}
+
+.network-row{
+  position: relative;
+  /* padding: 0px; */
+  /* padding-top: 100px ; */
+  padding-top: 10vw;
+
+}
+.uniNetwork img{
+  width: 50%;
+  height: 50%;
+}
+.network-text p{
+  color: #b8eded65;
+  /* text-align: center; */
+}
+.network-text h5{
+  color:rgb(225, 222, 215);
+  text-align: center;
+  
+}
+.network-text h6{
+  color:#00E366;
+  text-align: center;
+  
+}
+.box{
+  background-color:#05080C;
+  width: 90%;
+  height: 20%;
+}
+.main-box{
+  display: flex;
+  padding: 60px;
+  justify-content: center;
+}
+.inBox{
+  /* padding: 30px; */
+  justify-content: center;
+  text-align: center;
+  border: 1px solid black;
+}
+.box:hover{
+  background-color:#00CCFF;
+
+}
+
+/* ===================================================================================================================== */
+
+section{
+  height:100%;
+  width:100%;
+    position:absolute ;  background:radial-gradient(#333,#000);
+  }
+  .leaf{
+      position:absolute ;
+      width:100%;
+      height:100%;
+      top:0;
+      left:0;
+  }
+  .leaf div{
+  position:absolute ;
+  display:block ;
+  }
+  .leaf div:nth-child(1){
+      left:20%; 
+      animation:fall 15s linear infinite ;
+      animation-delay:-2s;
+  
+  }
+  .leaf div:nth-child(2){
+      left:70%; 
+      animation:fall 15s linear infinite ;
+      animation-delay:-4s;
+  }
+  .leaf div:nth-child(3){
+      left:10%; 
+      animation:fall 20s linear infinite ;
+      animation-delay:-7s;
+      
+  }
+  .leaf div:nth-child(4){
+      left:50%; 
+     animation:fall 18s linear infinite ; 
+     animation-delay:-5s;
+  }
+  .leaf div:nth-child(5){
+      left:85%; 
+      animation:fall 14s linear infinite ;
+      animation-delay:-5s;
+  }
+  .leaf div:nth-child(6){
+      left:15%; 
+      animation:fall 16s linear infinite ;
+      animation-delay:-10s;
+  }
+  .leaf div:nth-child(7){
+      left:90%; 
+      animation:fall 15s linear infinite ;
+      animation-delay:-4s;
+  }
+  
+  @keyframes fall{
+      0%{
+          opacity:1;
+          top:-10%;
+          transform:translateX (20px) rotate(0deg);
+      }
+      20%{
+          opacity:0.8;
+          transform:translateX (-20px) rotate(45deg);
+      }
+      40%{
+  
+          transform:translateX (-20px) rotate(90deg);
+      }
+      60%{
+          
+         transform:translateX (-20px) rotate(135deg); 
+      }
+      80%{
+      
+          transform:translateX (-20px) rotate(180deg);
+      }
+      100%{
+          
+          top:110%;
+          transform:translateX (-20px) rotate(225deg);
+      }
+      }
+  .leaf1{
+      transform: rotateX(180deg);
+  }
+
+
+  /* ================================================ Unicrypt-Token =============================== */
+
+  .main-token{
+    background-color: #333;
+    padding: 5% 35% 5% 35%;
+    /* border-radius: 20px; */
+  }
+  .token-box p{
+    margin: 0;
+  }
+
+
+
+
