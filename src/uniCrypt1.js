@@ -128,7 +128,7 @@ class UniCrypt1 extends React.Component {
                                             <p>Coding skills are not required, and newly-minted token contracts do not require additional audits.</p>
                             </div>
                             <div class="col-12 col-lg-6">
-                               <center> <img alt="logo2" src="/images/minting.png"/></center>
+                               <center> <img alt="minting" src="/images/minting.png"/></center>
                             </div>
                         </div>
                         <div class="row main-row">

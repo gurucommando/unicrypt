@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/unicrypt/static/css/main.11ef654c.css",
+    "main.js": "/unicrypt/static/js/main.b767a39d.js",
+    "static/js/787.87c1b3e4.chunk.js": "/unicrypt/static/js/787.87c1b3e4.chunk.js",
+    "static/media/logo.svg": "/unicrypt/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/unicrypt/index.html",
+    "main.11ef654c.css.map": "/unicrypt/static/css/main.11ef654c.css.map",
+    "main.b767a39d.js.map": "/unicrypt/static/js/main.b767a39d.js.map",
+    "787.87c1b3e4.chunk.js.map": "/unicrypt/static/js/787.87c1b3e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.11ef654c.css",
+    "static/js/main.b767a39d.js"
+  ]
+}
