@@ -228,8 +228,8 @@ class UniCrypt1 extends React.Component {
                                             <stong class="blockchain_3d">UNCX</stong>
                                         </div>
                                         <div className="uni-pic">
-                                            <center> <img id="uni-round" className="box-shadow" alt="logo2" src="/images/uncx.png"/></center>
-                                            <center> <img className="red-glass" alt="logo2" src="/images/glasss.png"/></center>
+                                            <center> <img id="uni-round" className="box-shadow" alt="glass1" src="/images/uncx.png"/></center>
+                                            <center> <img className="red-glass" alt="glass1" src="/images/glasss.png"/></center>
                                             <h2>UNCX</h2>
                                             <p>✔️ Launchpads allocation</p>
                                             <p>✔️  Staking, profit-sharing ($USDC) & UNCL emission</p>
@@ -244,8 +244,8 @@ class UniCrypt1 extends React.Component {
                                     <stong class="blockchain_3d">UNCL</stong>
                             </div>
                             <div className="uni-pic">
-                                <center> <img id="uni-round" className="box-shadow" alt="logo2" src="/images/uncl1.png"/></center>
-                                    <center> <img className="red-glass" alt="logo2" src="/images/glassss.png"/></center>
+                                <center> <img id="uni-round" className="box-shadow" alt="glass2" src="/images/uncl1.png"/></center>
+                                    <center> <img className="red-glass" alt="glass2" src="/images/glassss.png"/></center>
                                     <h2>UNCL</h2>
                                     <p>✔️ Launchpads tickets reservation</p>
                                     <p>✔️  Booster on farming/staking APYs</p>
